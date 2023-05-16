@@ -1,6 +1,8 @@
 # BattleRoyaleRingSim
 Simulates the ring closing in a battle royale game such as Apex Legends.
 
+# THIS IS A WIP
+
 ## Quick Start
 #### Make sure sdl2 and sdl2_image are installed
 Arch Linux
